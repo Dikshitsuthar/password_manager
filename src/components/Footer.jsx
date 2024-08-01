@@ -10,7 +10,7 @@ const Footer = () => {
 
 
             </div>
-            <div className='flex justify-center items-center'> Made by @ Dikshit suthar </div>
+            <div className='flex justify-center items-center'> Made by @ Dikshit Suthar </div>
         </div>
     )
 }
